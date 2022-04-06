@@ -10,7 +10,6 @@ import Footer from './components/Footer';
 import Contact from './components/pages/Contact';
 
 
- 
 
 
 function App() {

@@ -1,9 +1,10 @@
 import React from 'react';
 import '../../App.css';
 
+
 export default function Gallery() {
   return (
-
+  
   <div class="gallery">
   <div class="box">
     <img src="https://c1.wallpaperflare.com/preview/476/803/578/event-party-events-night-party-celebration.jpg" alt="description"/>
@@ -20,6 +21,7 @@ export default function Gallery() {
   <div class="box">
     <img src="https://p4.wallpaperbetter.com/wallpaper/266/198/426/girl-trip-wallpaper-preview.jpg" alt="description"/>
     <span>Traveling Shoots</span>
+
   </div>
 </div>
   
